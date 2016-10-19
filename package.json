@@ -1,0 +1,9 @@
+{
+  "name": "montserrat-webfont",
+  "version": "1.0.0",
+  "description": "Montserrat webfont package, optimized for Bower and gulp-flatten.\r Contains font files, less, scss, and CSS.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingaia/montserrat-webfont.git"
+  }
+}
